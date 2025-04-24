@@ -158,5 +158,3 @@ curl http://localhost:11434/api/generate -d '{
 }'
 ```
 
-
-https://officeseamolec-my.sharepoint.com/personal/handi_office_seamolec_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhandi%5Foffice%5Fseamolec%5Forg%2FDocuments%2FLKS%2FLKS%20Prov%20Jatim%2F2025%2FClose%2Fmodul%2Ddevops%20CICD%2Epdf&parent=%2Fpersonal%2Fhandi%5Foffice%5Fseamolec%5Forg%2FDocuments%2FLKS%2FLKS%20Prov%20Jatim%2F2025%2FClose&ga=1
